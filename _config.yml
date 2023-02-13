@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kim Tae Gyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an very **amazing** person."
   location         : "Somewhere"
   email            :
   links:
@@ -287,6 +287,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
